@@ -30,7 +30,9 @@
 
 ## :information_source: O que é a Next Level Week?
 
-NLW é uma semana prática com muito código, desafios, networking e um único objetivo: levá-lo ao próximo nível. Através do nosso método você aprenderá novas ferramentas, aprenderá sobre novas tecnologias e descobrirá hacks que irão impulsionar sua carreira. Um evento online totalmente gratuito que o ajudará a dar o próximo passo em sua evolução como desenvolvedor
+NLW é uma semana prática com muito código, desafios, networking e um único objetivo: levá-lo ao próximo nível. Através do nosso método você aprenderá novas ferramentas, aprenderá sobre novas tecnologias e descobrirá hacks que irão impulsionar sua carreira. Um evento online totalmente gratuito que o ajudará a dar o próximo passo em sua evolução como desenvolvedor.
+
+Este projeto foi desenvolvido durante a Next Level Week #3, ministrado por Diego Fernandes da Rocketseat.
 
 ## 💻 Projeto
 
